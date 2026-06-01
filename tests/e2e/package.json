@@ -15,7 +15,7 @@
     "ai": "^6.0.97",
     "jotai": "^2.18.0",
     "redux": "^5.0.1",
-    "vitest": "^4.0.17",
+    "vitest": "^4.1.0",
     "zod": "^4.3.6",
     "zustand": "^5.0.11",
     "@json-render/ink": "workspace:*",
